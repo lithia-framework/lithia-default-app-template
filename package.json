@@ -2,7 +2,6 @@
   "name": "my-lithia-app",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
   "scripts": {
     "dev": "lithia dev",
     "start": "lithia start",
