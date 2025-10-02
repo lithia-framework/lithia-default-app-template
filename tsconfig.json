@@ -6,11 +6,12 @@
     "allowJs": false,
     "types": ["node"],
     "resolveJsonModule": true,
+    "skipLibCheck": true,
     "strict": true,
     "baseUrl": "",
     "paths": {
       "@/*": ["src/*"]
     }
   },
-  "exclude": []
+  "exclude": ["node_modules", ".lithia"]
 }
